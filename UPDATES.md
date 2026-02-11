@@ -28,7 +28,7 @@
         <li> ATTEMPTED to connect Arduinos to neck + jaw servos (failure) </li>
         <li> Discovered speaker for head had NOT shipped yet (booooo) </li>
         <li> <strong> !!! PINS FOR FINGERS + BICEP NEED TO BE SECURED !!! </strong> </li>
-        <li> pins for bicep failed printing <italic> three </italic> times </li>
+        <li> pins for bicep failed printing <i> three </i> times </li>
 </ul>    
 <br> 
 To Do: <br>
