@@ -32,14 +32,15 @@
 </ul>    
 <br> 
 To Do: <br>
-<nl>
+<ol>
         <li> Print rest of Torso </li>
         <li> SECURE PINS </li>
         <li> Figure out why head + jaw wont move???? </li>
         <li> Glue "gear-hold" part on side of bicep </li>
         <li> Print new servo gear top (forgot what its called) </li>
         <li> GET SHIPPING NUMBER FOR SPEAKER </li>
-</nl>
+</ol>
+<br>
 
 *12 Feb---------*<br>
 
