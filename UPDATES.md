@@ -1,7 +1,7 @@
 ### WEEK OF FEBRUARY 1 - 7 ###
-*3 Feb:*  Assembled frame of the bicep
-        Glued finger pieces together
-        Began stringing wrist
+*3 Feb:*  Assembled frame of the bicep\n
+        Glued finger pieces together\n
+        Began stringing wrist\n
         Discovered need for servo manipulation
 
 *5 Feb:*  Continued assembling bicep frame
