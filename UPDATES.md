@@ -1,34 +1,38 @@
-### WEEK OF FEBRUARY 1 - 7 ###
+<h2> WEEK OF FEBRUARY 1 - 7 </h2>
+
 *3 Feb---------*<br> 
-- Assembled frame of the bicep <br>
-- Glued finger pieces together <br>
-- Began stringing wrist <br>
-- Discovered need for servo manipulation <br>
+<ul>
+        <li> Assembed Frame of the bicep </li>
+        <li> Glued finger pieces together </li>
+        <li> Began stringing wrist </li>
+        <li> Discovered need for potentiometer removal in servo (BICEP) </li>
+</ul>
 
 *5 Feb---------*<br>  
-- Continued assembling bicep frame <br>
-- Discovered need for pin in elbow <br>
-- Assembled individual fingers with printed pins <br>
-- Attempted to figure out servo manipulation :( <br>
+<ul>
+        <li> Continued assembling bicep frame </li>
+        <li> Began printing pin to connect bicep to elbow </li>
+        <li> Assembled individual fingers with printed pins </li>
+        <li> ATTEMPTED to figure out how to remove potentiometer (failure) </li>
+</ul>
 
 <hr>
 
-### WEEK OF FEBRUARY 8 - 14 ###
+<h2> WEEK OF FEBRUARY 8-14 </h2>
 
 *10 Feb---------*<br>
-- Assembled hand (Strung thread through, glues thumb, inserted pins) <br>
-- Bicep ALMOST complete <br>
-        --Gear hold needs to be glued
-        --"Skin" needs to be printed + assembled
-- Jaw screwed in place <br>
-- ATTEMPTED at connect arduinos to neck + jaw servos (failure) <br>
-- Pins for bicep failed printing 3(?) times <br>
-- <strong> **PINS FOR FINGERS NEED TO BE SECURED -- PINS FOR BICEP NEED TO BE SECURED** </strong> <br>
-- Discovered speaker had not shipped yet- need shipping number <br>
-        
+<ul>
+        <li> Assembled hand (threaded fingers, glued thumb, taped pins) </li>
+        <li> Bicep ALMOST complete </li>
+        <li> Jaw Screwed in place -- no longer hanging down </li>
+        <li> ATTEMPTED to connect Arduinos to neck + jaw servos (failure) </li>
+        <li> Discovered speaker for head had NOT shipped yet (booooo) </li>
+        <li> <strong> PINS FOR FINGERS + BICEP NEED TO BE SECURED </strong> </li>
+        <li> pins for bicep failed printing <italic> three </italic> times </li>
+</ul>    
 
 *12 Feb---------*<br>
 
 <hr>
 
-### WEEK OF FEBRUARY 15-21 ###
+<h2> WEEK OF FEBRUARY 15 - 21 </h2>
