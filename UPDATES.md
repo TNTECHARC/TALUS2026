@@ -1,18 +1,18 @@
 ### WEEK OF FEBRUARY 1 - 7 ###
-*3 Feb:*  Assembled frame of the bicep\n
-        Glued finger pieces together\n
-        Began stringing wrist\n
-        Discovered need for servo manipulation
+*3 Feb:*  Assembled frame of the bicep <br>
+        Glued finger pieces together <br>
+        Began stringing wrist <br>
+        Discovered need for servo manipulation <br>
 
-*5 Feb:*  Continued assembling bicep frame
-        Discovered need for pin in elbow
-        Assembled individual fingers with printed pins
-        Attempted to figure out servo manipulation :(
+*5 Feb:*  Continued assembling bicep frame <br>
+        Discovered need for pin in elbow <br>
+        Assembled individual fingers with printed pins <br>
+        Attempted to figure out servo manipulation :( <br>
 
 ### WEEK OF FEBRUARY 8 - 14 ###
 
-*10 Feb:* Assembled hand (Strung thread through, glues thumb, inserted pins)
-        Bicep ALMOST complete
+*10 Feb:* Assembled hand (Strung thread through, glues thumb, inserted pins) <br>
+        Bicep ALMOST complete <br>
                 - Gear hold needs to be glued
                 - "Skin" needs to be printed + assembled
         Jaw screwed in place
