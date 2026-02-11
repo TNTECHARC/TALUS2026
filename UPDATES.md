@@ -27,9 +27,17 @@
         <li> Jaw Screwed in place -- no longer hanging down </li>
         <li> ATTEMPTED to connect Arduinos to neck + jaw servos (failure) </li>
         <li> Discovered speaker for head had NOT shipped yet (booooo) </li>
-        <li> <strong> PINS FOR FINGERS + BICEP NEED TO BE SECURED </strong> </li>
+        <li> <strong> !!! PINS FOR FINGERS + BICEP NEED TO BE SECURED !!! </strong> </li>
         <li> pins for bicep failed printing <italic> three </italic> times </li>
 </ul>    
+<br> 
+To Do: <br>
+<li> Print rest of Torso </li>
+<li> SECURE PINS </li>
+<li> Figure out why head + jaw wont move???? </li>
+<li> Glue "gear-hold" part on side of bicep </li>
+<li> Print new servo gear top (forgot what its called) </li>
+<li> GET SHIPPING NUMBER FOR SPEAKER </li>
 
 *12 Feb---------*<br>
 
