@@ -39,6 +39,8 @@ To Do: <br>
         <li> Glue "gear-hold" part on side of bicep </li>
         <li> Print new servo gear top (forgot what its called) </li>
         <li> GET SHIPPING NUMBER FOR SPEAKER </li>
+        <li> Print "skin" for bicep </li>
+        <li> Begin shoulder assembly </li>
 </ol>
 <br>
 
