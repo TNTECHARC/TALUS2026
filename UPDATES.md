@@ -45,6 +45,13 @@ To Do: <br>
 <br>
 
 *12 Feb---------*<br>
+<ul>
+        <li> Soldered finger pins to secure to hand </li>
+        <li> Began potentiometer removal in servo </li>
+        <li> Sanded thumb joint to allow maximum range of motion </li>
+        <li> Tested neck, jaw, and wrist servos SUCCESSFULLY </li>
+        <li> Created test code for jaw movement </li>
+</ul>
 
 <hr>
 
