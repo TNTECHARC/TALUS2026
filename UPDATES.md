@@ -56,3 +56,21 @@ To Do: <br>
 <hr>
 
 <h2> WEEK OF FEBRUARY 15 - 21 </h2>
+*17 Feb---------*<br>
+<ul>
+        <li> Printed new servo gear for wrist </li>
+        <li> Began stringing wrist </li>
+        <li> Assembled front of torso </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+</ul>
+<br>
+To Do: 
+<ol>
+        <li> Place potentiometer in bicep slot </li>
+        <li> Glue gear into bicep slot </li>
+        <li> String wrist servos </li>
+        <li> Print rest of back pieces </li>
+        <li> Assemble inside and back of torso</li>
+</ol>
