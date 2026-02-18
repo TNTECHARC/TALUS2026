@@ -62,7 +62,6 @@ To Do: <br>
         <li> Assembled front of torso </li>
         <li> Attached gear to wrist servo SUCCESSFULLY (fourth times a charm)</li>
         <li> Began assembling inside of torso</li>
-        <li> </li>
 </ul>
 <br>
 To Do: <br>
