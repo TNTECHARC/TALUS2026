@@ -32,16 +32,15 @@
 </ul>    
 <br> 
 To Do: <br>
-<ol>
-        <li> Print rest of Torso </li>
-        <li> <span> &#x2714; </span> SECURE PINS </li>
-        <li> <span> &#x2714; </span> Figure out why head + jaw wont move???? </li>
-        <li> Glue "gear-hold" part on side of bicep </li>
-        <li> <span> &#x2714; </span> Print new servo gear top (forgot what its called) </li>
-        <li> GET SHIPPING NUMBER FOR SPEAKER </li>
-        <li> Print "skin" for bicep </li>
-        <li> Begin shoulder assembly </li>
-</ol>
+
+<span> &#x1F5F9; </span> Print rest of Torso 
+<span> &#x2611; </span>  SECURE PINS 
+<span> &#x2611; </span>  Figure out why head + jaw wont move???? 
+<span> &#x1F5F9; </span> Glue "gear-hold" part on side of bicep 
+<span> &#x2611; </span>  Print new servo gear top (forgot what its called) 
+<span> &#x1F5F9; </span> GET SHIPPING NUMBER FOR SPEAKER 
+<span> &#x1F5F9; </span> Print "skin" for bicep 
+<span> &#x1F5F9; </span> Begin shoulder assembly 
 <br>
 
 *12 Feb---------*<br>
@@ -66,16 +65,16 @@ To Do: <br>
         <li> </li>
 </ul>
 <br>
-To Do: 
-<ol>
-        <li> Place potentiometer in bicep slot </li>
-        <li> Glue gear into bicep slot </li>
-        <li> String wrist and servos </li>
-        <li> Print rest of back pieces </li>
-        <li> Assemble inside and back of torso</li>
-        <li> BRING NEEDLE FOR THREADING </li>
-        <li> Begin shoulder assembly </li>
-</ol>
+To Do: <br>
+
+<span> &#x1F5F9; </span> Place potentiometer in bicep slot 
+<span> &#x1F5F9; </span> Glue gear into bicep slot 
+<span> &#x1F5F9; </span> String wrist and servos 
+<span> &#x1F5F9; </span> Print rest of back pieces 
+<span> &#x1F5F9; </span> Assemble inside and back of torso
+<span> &#x1F5F9; </span> BRING NEEDLE FOR THREADING 
+<span> &#x1F5F9; </span> Begin shoulder assembly 
+
 
 <br>
 <i>17 Feb---------</i> <br>
