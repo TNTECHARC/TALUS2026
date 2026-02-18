@@ -59,10 +59,10 @@ To Do: <br>
 <i>17 Feb---------</i> <br>
 <ul>
         <li> Printed new servo gear for wrist </li>
-        <li> Began stringing wrist </li>
+        <li> Planned wrist stringing </li>
         <li> Assembled front of torso </li>
-        <li> </li>
-        <li> </li>
+        <li> Attached gear to wrist servo SUCCESSFULLY (fourth times a charm)</li>
+        <li> Began assembling inside of torso</li>
         <li> </li>
 </ul>
 <br>
@@ -70,7 +70,17 @@ To Do:
 <ol>
         <li> Place potentiometer in bicep slot </li>
         <li> Glue gear into bicep slot </li>
-        <li> String wrist servos </li>
+        <li> String wrist and servos </li>
         <li> Print rest of back pieces </li>
         <li> Assemble inside and back of torso</li>
+        <li> BRING NEEDLE FOR THREADING </li>
+        <li> Begin shoulder assembly </li>
 </ol>
+
+<br>
+<i>17 Feb---------</i> <br>
+<ul>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+</ul>
