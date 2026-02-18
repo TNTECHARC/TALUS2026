@@ -56,7 +56,7 @@ To Do: <br>
 <hr>
 
 <h2> WEEK OF FEBRUARY 15 - 21 </h2>
-*17 Feb---------*<br>
+*17 Feb---------* <br>
 <ul>
         <li> Printed new servo gear for wrist </li>
         <li> Began stringing wrist </li>
