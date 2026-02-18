@@ -40,7 +40,7 @@ To Do: <br>
 <span> &#x2611; </span>  Print new servo gear top (forgot what its called) <br>
 <span> &#x2610; </span> GET SHIPPING NUMBER FOR SPEAKER <br>
 <span> &#x2610; </span> Print "skin" for bicep <br>
-<span> &&#x2610; </span> Begin shoulder assembly <br>
+<span> &#x2610; </span> Begin shoulder assembly <br>
 <br>
 
 *12 Feb---------*<br>
