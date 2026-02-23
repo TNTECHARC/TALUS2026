@@ -33,14 +33,14 @@
 <br> 
 To Do: <br>
 
-<span> &#x2610;; </span> Print rest of Torso <br>
+<span> &#x2611; </span> Print rest of Torso <br>
 <span> &#x2611; </span>  SECURE PINS <br>
 <span> &#x2611; </span>  Figure out why head + jaw wont move???? <br>
 <span> &#x2610; </span> Glue "gear-hold" part on side of bicep <br>
 <span> &#x2611; </span>  Print new servo gear top (forgot what its called) <br>
 <span> &#x2610; </span> GET SHIPPING NUMBER FOR SPEAKER <br>
 <span> &#x2610; </span> Print "skin" for bicep <br>
-<span> &#x2610; </span> Begin shoulder assembly <br>
+<span> &#x2611; </span> Begin shoulder assembly <br>
 <br>
 
 *12 Feb---------*<br>
