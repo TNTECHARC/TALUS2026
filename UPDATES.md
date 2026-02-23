@@ -69,14 +69,24 @@ To Do: <br>
 <span> &#x2610; </span> Place potentiometer in bicep slot <br>
 <span> &#x2610; </span> Glue gear into bicep slot <br>
 <span> &#x2610; </span> String wrist and servos <br>
-<span> &#x2610; </span> Print rest of back pieces <br>
-<span> &#x2610; </span> Assemble inside and back of torso <br>
-<span> &#x2610; </span> BRING NEEDLE FOR THREADING <br>
-<span> &#x2610; </span> Begin shoulder assembly <br>
+<span> &#x2611; </span> Print rest of back pieces <br>
+<span> &#x2611; </span> Assemble inside and back of torso <br>
+<span> &#x2611; </span> BRING NEEDLE FOR THREADING <br>
+<span> &#x2611; </span> Begin shoulder assembly <br>
 
 
 <br>
 <i>19 Feb---------</i> <br>
+<ul>
+        <li> Printed and assembled rest of torso </li>
+        <li> Strung wrist and two servos </li>
+        <li> Began shoulder assembly </li>
+        <li> Began printing more throat/torso pieces </li>
+</ul>
+
+<hr>
+
+<h2> WEEK OF FEBRUARY 22 - 28 </h2>
 <ul>
         <li> </li>
         <li> </li>
