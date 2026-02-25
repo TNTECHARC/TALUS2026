@@ -87,8 +87,22 @@ To Do: <br>
 <hr>
 
 <h2> WEEK OF FEBRUARY 22 - 28 </h2>
+<i>24 Feb---------</i> <br>
 <ul>
+        <li> Strung and tested wrist (half-success!) </li>
+        <li> Sanded torso holes for easy access</li>
+        <li> Printed more torso pieces </li>
+        <li> Disassembled bicep to replace Servo (IN PROGRESS) </li>
+        <li> Began printing Hand Plates </li>
+        <li> EXCEL SHEET CREATED FOR PARTS ORGANIZATION </li>
+</ul>
+
+<br>
+
+<i>26 Feb---------</i> <br>
+<ul> 
         <li> </li>
         <li> </li>
         <li> </li>
 </ul>
+
