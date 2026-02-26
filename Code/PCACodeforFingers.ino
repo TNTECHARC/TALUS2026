@@ -40,6 +40,7 @@ void loop() {
     int angle = Serial.parseInt();
 
     // Validate input
+    // Currently set to -30 (true zero) and 167 (max servo potential tested) -- will change once we adjust servo caps
     if (servoNum >= 0 && servoNum < 5 && angle >= -30 && angle <= 167) {
 
       int pulse = angleToPulse(angle);
