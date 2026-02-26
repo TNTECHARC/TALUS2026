@@ -99,6 +99,14 @@ To Do: <br>
 
 <br>
 
+<i>25 Feb---------</i> <br>
+<ul> 
+        <li> Tested ring finger servo </li>
+        <li> Discovered true zero of servo is about 30° off ... current zero at -30 and max at 167</li>
+        <li> Updated finger test code to match new servo limitations</li>
+        <li> Discovered possible solution for loose wrist strings -- changing 3d print cap position to face the gap TOWARDS the palm at servo position = 0 </li>
+</ul>
+
 <i>26 Feb---------</i> <br>
 <ul> 
         <li> </li>
