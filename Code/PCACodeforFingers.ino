@@ -40,7 +40,7 @@ void loop() {
     int angle = Serial.parseInt();
 
     // Validate input
-    if (servoNum >= 0 && servoNum < 5 && angle >= 0 && angle <= 180) {
+    if (servoNum >= 0 && servoNum < 5 && angle >= -30 && angle <= 167) {
 
       int pulse = angleToPulse(angle);
 
@@ -54,7 +54,7 @@ void loop() {
       Serial.println(" degrees");
 
     } else {
-      Serial.println("Invalid input. Use: servoNumber(0-4) angle(0-180)");
+      Serial.println("Invalid input. Use: servoNumber(0-4) angle(-30 - 167)");
     }
 
     // Clear any leftover serial data
