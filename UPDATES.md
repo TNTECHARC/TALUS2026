@@ -129,5 +129,19 @@ To do: <br>
 <span> &#x2610; </span> Buy servos for hip movement <br>
 <span> &#x2610; </span> CHECK SHIPPING NUMBER ON SPEAKER!!!!!!!!! <br>
 <span> &#x2610; </span> Print bicep cover and chestplate <br>
+<br>
+
+<hr>
+<h1> Week of March 1 - 7 </h1> 
+
+<i> 3 March ---------</i> <br>
+<ul>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+</ul>
 
 
