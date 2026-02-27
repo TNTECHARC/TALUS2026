@@ -68,7 +68,7 @@ To Do: <br>
 
 <span> &#x2610; </span> Place potentiometer in bicep slot <br>
 <span> &#x2610; </span> Glue gear into bicep slot <br>
-<span> &#x2610; </span> String wrist and servos <br>
+<span> &#x2611; </span> String wrist and servos <br>
 <span> &#x2611; </span> Print rest of back pieces <br>
 <span> &#x2611; </span> Assemble inside and back of torso <br>
 <span> &#x2611; </span> BRING NEEDLE FOR THREADING <br>
@@ -109,8 +109,25 @@ To Do: <br>
 
 <i>26 Feb---------</i> <br>
 <ul> 
-        <li> </li>
-        <li> </li>
-        <li> </li>
+        <li> Assembled all of torso </li>
+        <li> Readjusted wrist servos </li>
+        <li> Removed potentiometer from bicep servo </li>
+        <li> Discovered potentiometer wiring is on wrong side </li>
+        <li> Attatched head to torso </li>
+        <li> Assembled base of torso </li>
+        <li> Discovered head worm gear lacks tolerance </li>
+        <li> Found a cool battery-operated car in a box (I kept it) </li>
+        <li> Screwed cranium caps onto head for Spring Showcase </li>
+        <li> Printed finger and hand covered </li>
 </ul>
+
+To do:
+<span> &#x2610; </span> Reprint bicep side piece for potentiometer to fit
+<span> &#x2610; </span> Glue knuckle coveres onto handplate
+<span> &#x2610; </span> Adjust finger code to allow mutliple servo input
+<span> &#x2610; </span> Reprint Servo cap for neck 
+<span> &#x2610; </span> Buy servos for hip movement
+<span> &#x2610; </span> CHECK SHIPPING NUMBER ON SPEAKER!!!!!!!!!
+<span> &#x2610; </span> Print bicep cover and chestplate
+
 
