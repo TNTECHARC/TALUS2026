@@ -121,13 +121,13 @@ To Do: <br>
         <li> Printed finger and hand covered </li>
 </ul>
 
-To do:
-<span> &#x2610; </span> Reprint bicep side piece for potentiometer to fit
-<span> &#x2610; </span> Glue knuckle coveres onto handplate
-<span> &#x2610; </span> Adjust finger code to allow mutliple servo input
-<span> &#x2610; </span> Reprint Servo cap for neck 
-<span> &#x2610; </span> Buy servos for hip movement
-<span> &#x2610; </span> CHECK SHIPPING NUMBER ON SPEAKER!!!!!!!!!
-<span> &#x2610; </span> Print bicep cover and chestplate
+To do: <br>
+<span> &#x2610; </span> Reprint bicep side piece for potentiometer to fit <br>
+<span> &#x2610; </span> Glue knuckle coveres onto handplate <br>
+<span> &#x2610; </span> Adjust finger code to allow mutliple servo input <br>
+<span> &#x2610; </span> Reprint Servo cap for neck <br>
+<span> &#x2610; </span> Buy servos for hip movement <br>
+<span> &#x2610; </span> CHECK SHIPPING NUMBER ON SPEAKER!!!!!!!!! <br>
+<span> &#x2610; </span> Print bicep cover and chestplate <br>
 
 
