@@ -6,8 +6,8 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 
 // Pulse length limits for your servos
 // You may need to adjust these if the range seems off
-#define SERVOMIN 150   // pulse for 0°
-#define SERVOMAX 600   // pulse for 180°
+#define SERVOMIN 75   // pulse for 0°
+#define SERVOMAX 500   // pulse for 180°
 
 // Channels where each servo is plugged in on the PCA9685
 int servoChannels[5] = {0, 1, 2, 3, 4};
@@ -41,7 +41,7 @@ void loop() {
 
     // Validate input
     // Currently set to -30 (true zero) and 167 (max servo potential tested) -- will change once we adjust servo caps
-    if (servoNum >= 0 && servoNum < 5 && angle >= -30 && angle <= 167) {
+    if (servoNum >= 0 && servoNum < 5 && angle >= 0 && angle <= 180) {
 
       int pulse = angleToPulse(angle);
 
