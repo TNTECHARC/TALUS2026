@@ -122,7 +122,7 @@ To Do: <br>
 </ul>
 
 To do: <br>
-<span> &#x2610; </span> Reprint bicep side piece for potentiometer to fit <br>
+<span> &#x2611; </span> Reprint bicep side piece for potentiometer to fit <br>
 <span> &#x2610; </span> Glue knuckle coveres onto handplate <br>
 <span> &#x2610; </span> Adjust finger code to allow mutliple servo input <br>
 <span> &#x2610; </span> Reprint Servo cap for neck <br>
@@ -136,12 +136,11 @@ To do: <br>
 
 <i> 3 March ---------</i> <br>
 <ul>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
-        <li> </li>
+        <li> Printed and assembled chest cosmetics </li>
+        <li> Printed and attached new wrist servo SUCCESSFULLY </li>
+        <li> Sanded cosmetic parts painfully </li>
+        <li> Added the XBOX Kinect to chest  </li>
+        <li> Added springs to forearm for tensioners </li>
 </ul>
 
 
