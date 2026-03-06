@@ -125,7 +125,7 @@ To do: <br>
 <span> &#x2611; </span> Reprint bicep side piece for potentiometer to fit <br>
 <span> &#x2610; </span> Glue knuckle coveres onto handplate <br>
 <span> &#x2610; </span> Adjust finger code to allow mutliple servo input <br>
-<span> &#x2610; </span> Reprint Servo cap for neck <br>
+<span> &#x2611; </span> Reprint Servo cap for neck <br>
 <span> &#x2610; </span> Buy servos for hip movement <br>
 <span> &#x2610; </span> CHECK SHIPPING NUMBER ON SPEAKER!!!!!!!!! <br>
 <span> &#x2610; </span> Print bicep cover and chestplate <br>
@@ -142,5 +142,23 @@ To do: <br>
         <li> Added the XBOX Kinect to chest  </li>
         <li> Added springs to forearm for tensioners </li>
 </ul>
+
+<i> 5 March ---------</i> <br>
+<ul>
+        <li> Printed and assembled Back cosmetics </li>
+        <li> Restrung wrist servos with tensioners installed </li>
+        <li> Detatched old HS-805BB+ servos from old TALUS </li>
+        <li> ATTEMPTED to control old servos (failure) </li>
+        <li> ATTEMPTED to attach back piece to TALUS (partial success) </li>
+        <li> Attached rest of neck </li>
+</ul>
+
+To do: <br>
+<span> &#x2610; </span> Order pieces for next semester <br>
+<span> &#x2610; </span> Adjust Finger Servo code <br>
+<span> &#x2610; </span> Test HS 805BB+ servo with new PW and voltage <br>
+<span> &#x2610; </span> Attach back cover <br>
+<span> &#x2610; </span> Buy servos for hip movement <br>
+<br>
 
 
