@@ -6,7 +6,7 @@
 |Neck|N/A|N/A|N/A|N/A|N/A|N/A|
 |Shoulder|N/A|N/A|N/A|N/A|N/A|N/A|
 |Elbow|N/A|N/A|N/A|N/A|N/A|N/A|
-|Hips|N/A|N/A|N/A|N/A|N/A|N/A|
-|Forearm(fingers)|MG996R|4.8 - 7.2|1000-2000|76, 500|180º|50Hz||
+|Hips|HS-805BB+|4.8V - 6.0V|56-2420|150, 450|199º|50Hz|
+|Forearm(fingers)|MG996R|4.8V - 7.2V|1000-2000|76, 500|180º|50Hz|
 
 
