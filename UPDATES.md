@@ -153,10 +153,19 @@ To do: <br>
         <li> Attached rest of neck </li>
 </ul>
 
+<i> 6 March ---------</i> <br>
+<ul>
+        <li> Printed remaining back pieces </li>
+        <li> Tested HS-805BB+ servo with adjusted voltage and pulsewidth </li>
+        <li> Glued forearm to wrist </li>
+        <li> Reworked finger code -- can move all fingers at once </li>
+        <li> Began working on Hip servo program </li>
+</ul>
+
 To do: <br>
 <span> &#x2610; </span> Order pieces for next semester <br>
 <span> &#x2610; </span> Adjust Finger Servo code <br>
-<span> &#x2610; </span> Test HS 805BB+ servo with new PW and voltage <br>
+<span> &#x2611; </span> Test HS 805BB+ servo with new PW and voltage <br>
 <span> &#x2610; </span> Attach back cover <br>
 <span> &#x2610; </span> Buy servos for hip movement <br>
 <br>
