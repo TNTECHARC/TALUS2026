@@ -1,2 +1,7 @@
 <h1> View Code for TALUS </h1>
-<hl>
+<hr>
+Needed: 
+<ul>
+  <li> Ardunios IDE </li>
+  <li> Adafruit PCA ServoDriver library </li>
+</ul>
