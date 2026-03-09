@@ -3,8 +3,8 @@
     <th colspan="1">Name</th>
   </tr>
   <tr>
-    <td> InMoov </td>
-    <td> Servo Database </td>
-    <td> Morgan's Tinkerer Masterlist </td>
+    <th> InMoov </th>
+    <th> Servo Database </th>
+    <th> Morgan's Tinkerer Masterlist </th>
   </tr>
 </table>
