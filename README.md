@@ -23,7 +23,7 @@
   <li> Files divided by Body Sections (e.g Fingers)</li> <br>
 </ul>
 
-<h2> Updates /h2>
+<h2> Updates </h2>
 <ul>
   <li> Divided by MONTH </li>
   <li> Images in seperate folder -- divided by MONTH </li>
