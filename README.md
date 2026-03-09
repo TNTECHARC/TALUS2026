@@ -41,3 +41,9 @@
   <li> Images in seperate folder -- divided by MONTH </li>
 </ul>
 
+<h2> OTHER </h2>
+<ul>
+  <li> Resources </li>
+  <li> Servo Specs </li>
+  <li> Misc info</li>
+</ul>
