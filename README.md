@@ -1,8 +1,16 @@
 <h1> TALUS 2026 ... The Purple Version </h1>
 
-|Current Project Leads||
-|---------|---------|
-|John Veerling|Evan Rutledge|
+<table>
+  <tr>
+    <th colspan="2"> CURRENT PROJECT LEADS </th>
+  </tr>
+  <tr>
+    <td> Evan Rutledge </td>
+    <td> John Veerling </td>
+  </tr>
+  
+</table>
+
 <h2> Spring 2026 Goals </h2>
 <ul> 
   <li> Fully assemble Right Arm</li> 
