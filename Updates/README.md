@@ -1,4 +1,4 @@
-<h1> Written Updates </h1>
+<h1> Updates </h1>
 Structure:
 <ul>
   <li> Most recent at BOTTOM </li> 
