@@ -35,3 +35,15 @@ To do: <br>
 <span> &#x2610; </span> Attach back cover <br>
 <span> &#x2610; </span> Buy servos for hip movement <br>
 <br>
+
+<h1> Week of March 8 - 14 </h1>
+
+<i> 10 March ---------</i> <br>
+<ul>
+        <li>  </li>
+        <li>  </li>
+        <li>  </li>
+        <li>  </li>
+        <li>  </li>
+</ul>
+
