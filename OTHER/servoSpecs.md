@@ -2,7 +2,7 @@
 
 |Region|Servo|Voltage|Max PWM Signal Range (µs)|PUlSEWIDTH (min, max)|Max Rotation|Frequency(Hz)|
 |-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-|Eyes|MG90S|4.8V|500 - 2000|102, 409|180˚|50Hz|
+|Eyes|MG90S|4.8V - 6V|500 - 2000|102, 409|180˚|50Hz|
 |Neck|MG996R|4.8V - 7.2V|1000-2000|76, 500|180º|50Hz|
 |Shoulder|N/A|N/A|N/A|N/A|N/A|N/A|
 |Elbow|N/A|N/A|N/A|N/A|N/A|N/A|
