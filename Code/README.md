@@ -4,4 +4,5 @@ Needed:
 <ul>
   <li> Ardunios IDE </li>
   <li> Adafruit PCA ServoDriver library </li>
+  <li> PCA9685 Servo MicroController</li>
 </ul>
