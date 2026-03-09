@@ -1,6 +1,8 @@
 <table>
   <tr> 
-    <td><b>Name</b></td>
+    <th colspan="1">Name</th>
+  </tr>
+  <tr>
     <td> InMoov </td>
     <td> Servo Database </td>
     <td> Morgan's Tinkerer Masterlist </td>
