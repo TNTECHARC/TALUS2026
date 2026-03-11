@@ -37,8 +37,8 @@
 </table>
 <p>
   *Types: <br>
-  Print - CAD, 3D printing, STL searching
-  Assembly - Gluing, Sanding, Physical assembly, Soldering
-  Program - Aduinos playtime
-  Electrical - Circuit playtime
+  Print - CAD, 3D printing, STL searching <br>
+  Assembly - Gluing, Sanding, Physical assembly, Soldering <br>
+  Program - Aduinos playtime <br>
+  Electrical - Circuit playtime <br>
 </p>
