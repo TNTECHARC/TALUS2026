@@ -28,14 +28,6 @@
         <li> Began working on Hip servo program </li>
 </ul>
 
-To do: <br>
-<span> &#x2611; </span> Order pieces for next semester <br>
-<span> &#x2611; </span> Adjust Finger Servo code <br>
-<span> &#x2611; </span> Test HS 805BB+ servo with new PW and voltage <br>
-<span> &#x2611; </span> Attach back cover <br>
-<span> &#x2610; </span> Buy servos for hip movement <br>
-<br>
-
 <hr>
 
 <h1> Week of March 8 - 14 </h1>
