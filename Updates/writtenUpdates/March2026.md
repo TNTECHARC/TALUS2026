@@ -29,7 +29,7 @@
 </ul>
 
 To do: <br>
-<span> &#x2610; </span> Order pieces for next semester <br>
+<span> &#x2611; </span> Order pieces for next semester <br>
 <span> &#x2611; </span> Adjust Finger Servo code <br>
 <span> &#x2611; </span> Test HS 805BB+ servo with new PW and voltage <br>
 <span> &#x2611; </span> Attach back cover <br>
@@ -43,7 +43,9 @@ To do: <br>
         <li>Created finger code functions and folder </li>
         <li>Assembled bicep fully </li>
         <li>Resoldered potentiometer  </li>
-        <li>Assmbled shoulder   </li>
-        <li>  </li>
+        <li>Assmbled shoulder </li>
+        <li>Placed request for new servo orders </li>
+        <li>Began assembling mid stomach</li>
+        <li>Smiled and had a joyous time!!!</li>
 </ul>
 
