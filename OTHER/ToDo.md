@@ -3,12 +3,12 @@
     <th colspan="3"> To Do </th>
   </tr>
   <tr>
-    <th> Type </th>
+    <th> Type* </th>
     <th> Desc </th>
     <th> Status </th>
   </tr>
   <tr>
-    <th>Cosmetic</th>
+    <th>Assembly</th>
     <th>Glue knuckle-covers onto right hand</th>
     <th>INCOMPLETE</th>
   </tr>
@@ -35,3 +35,10 @@
   
    
 </table>
+<p>
+  *Types: <br>
+  Print - CAD, 3D printing, STL searching
+  Assembly - Gluing, Sanding, Physical assembly, Soldering
+  Program - Aduinos playtime
+  Electrical - Circuit playtime
+</p>
