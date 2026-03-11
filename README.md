@@ -11,39 +11,26 @@
   
 </table>
 
-<h2> Spring 2026 Goals </h2>
-<ul> 
-  <li> Fully assemble Right Arm</li> 
-  <li> Create program for servos </li> 
-  <li> Begin designing new Left Arm </li> 
-  <li> Add servos to eyes -- Speaker to head</li> 
-  <li> Create new Box for TALUS 2.0</li> 
-</ul>
-
-<h2> Fall 2026 Goals </h2>
-<ul> 
-  <li> TBD </li> 
-</ul>
-
 <hr>
 
-<h1> Folders </h1>
-
-<h2> Code </h2>
-<ul>
-  <li> Arduinos base </li> 
-  <li> Files divided by Body Sections (e.g Fingers)</li> 
-</ul>
-
-<h2> Updates </h2>
-<ul>
-  <li> Divided by MONTH </li>
-  <li> Images in seperate folder -- divided by MONTH </li>
-</ul>
-
-<h2> OTHER </h2>
-<ul>
-  <li> Resources </li>
-  <li> Servo Specs </li>
-  <li> Misc info</li>
-</ul>
+<table>
+  <tr>
+    <th colspan="2"> FOLDER DIRECTORY </th>
+  </tr>
+  <tr>
+    <th> Name </th>
+    <th> Desc </th>
+  </tr>
+  <tr>
+    <th> Code </th>
+    <th> Subfolders that hold servo code divided by BODY PART </th>
+  </tr>
+  <tr>
+    <th> Updates </th>
+    <th> Written and Visual updates for each official meet </th>
+  </tr>
+  <tr>
+    <th> Other </th>
+    <th> Resources, Goals, To-Do list, Misc info </th>
+  </tr>
+</table>
