@@ -36,6 +36,8 @@ To do: <br>
 <span> &#x2610; </span> Buy servos for hip movement <br>
 <br>
 
+<hr>
+
 <h1> Week of March 8 - 14 </h1>
 
 <i> 10 March ---------</i> <br>
@@ -49,3 +51,9 @@ To do: <br>
         <li>Smiled and had a joyous time!!!</li>
 </ul>
 
+<i> 12 March ---------</i> <br>
+<ul>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+</ul>
