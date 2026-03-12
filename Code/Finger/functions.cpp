@@ -3,7 +3,7 @@
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 
 int servoChannels[6] = {0, 1, 2, 3, 4, 5};
-// Converts an angle (0â180Â°) into a pulse length the driver understands
+// Converts an angle (0–180°) into a pulse length the driver understands
 
 int angleToPulse(int angle) { //maps out position for servo based on angle given
   return map(angle, 0, 180, SERVOMIN, SERVOMAX);
@@ -104,8 +104,18 @@ void peaceSign(){
   }
 }
 
+void rockOn(){
+  for(int i = 0; i <5; i++){
+    if(i == 1 || i == 4){
+      pwm.setPWM(servoChannels[i], 0, SERVOMIN);
+    }else{
+      pwm.setPWM(servoChannels[i], 0, SERVOMAX);
+    }
+  }
+}
+
 void menu(){ //prints menu options for user input
-  Serial.println("ââââââââââ âÂ°âÂ°â ââââââââââ");
+  Serial.println("┌───────── ∘°❉°∘ ─────────┐");
   Serial.println("|     Select an Option    |");
   Serial.println("|-------------------------|");
   Serial.println("| 1.) Finger Point        |");
@@ -117,5 +127,6 @@ void menu(){ //prints menu options for user input
   Serial.println("| 7.) INDIVIDUAL FINGER   |");
   Serial.println("| 8.) RESET NEUTRAL       |");
   Serial.println("| 9.) Peace Sign          |");
-  Serial.println("ââââââââââ Â°âââÂ° ââââââââââ");
+  Serial.println("| 10.) Rock On            |");
+  Serial.println("└───────── °∘❉∘° ─────────┘");
 }
