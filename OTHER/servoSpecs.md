@@ -12,4 +12,4 @@
 
 <h3>NOTE: if the servo becomes hot or buzzes -- it has hit their full limit! Back the max position off until it stop or else you may wear out the motor!</h3>
 
-<h3>NOTE: If running on the same controller, make sure Hertz is consisten! 50Hz is standard.</h3>
+<h3>NOTE: If running on the same controller, make sure Hertz is consistent! 50Hz is standard.</h3>
