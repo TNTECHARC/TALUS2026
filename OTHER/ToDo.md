@@ -14,8 +14,8 @@
   </tr>
   <tr>
     <th>Print</th>
-    <th>ReCAD and reprint trapezius worm gears</th>
-    <th>IN PROGRESS</th>
+    <th>ReCAD and reprint trapezius servo caps</th>
+    <th>COMPLETE</th>
   </tr>
   <tr>
     <th>Program</th>
@@ -36,6 +36,16 @@
     <th> Program </th>
     <th> Run python script to handle user input for arudinos functions </th>
     <th> INCOMPLETE </th>
+  </tr>
+  <tr>
+    <th> Assembly </th>
+    <th> Implement NEW head components!!!!</th>
+    <th> INCOMPLETE</th>
+  </tr>
+  <tr>
+    <th> Assembly </th>
+    <th> Attach bicep to shoulder -- arm to bicep</th>
+    <th> IN PROGRESS </th>
   </tr>
   
    
