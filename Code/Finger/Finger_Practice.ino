@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 #include "finger.h"
 
 void setup() {
@@ -53,5 +51,9 @@ void loop() {
         neutral();
         peaceSign();
         break;
+      
+      case 10:
+        neutral();
+        rockOn();
     }
 }
