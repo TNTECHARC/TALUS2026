@@ -32,6 +32,11 @@
     <th>Adjust inverse servo output for Neck -- slow speed? </th>
     <th>INCOMPLETE</th>
   </tr>
+  <tr>
+    <th> Program </th>
+    <th> Run python script to handle user input for arudinos functions </th>
+    <th> INCOMPLETE </th>
+  </tr>
   
    
 </table>
