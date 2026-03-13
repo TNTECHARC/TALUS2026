@@ -47,7 +47,21 @@
     <th> Attach bicep to shoulder -- arm to bicep</th>
     <th> IN PROGRESS </th>
   </tr>
-  
+  <tr>
+    <th> Assmebly </th>
+    <th> Apply grease to bicep servo gears </th>
+    <th> INCOMPLETE</th>
+  </tr>
+  <tr>
+    <th> Print </th>
+    <th> Print new pins for wrist and bicep ... AND CLIPS! </th>
+    <th> INCOMPLETE </th>
+  </tr>
+  <tr>
+    <th> Assembly
+    <th> Replace servo cap for trapezius servo </th>
+    <th> IN PROGRESS</th>
+  </tr>
    
 </table>
 <p>
