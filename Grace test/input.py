@@ -32,54 +32,51 @@ def intro(): ##Finish 9 and multiple
 
 
 def main():
-    port = portCheck()
-
-    while not port:
-        print("Please reconnect port!")
-        time.sleep(3)
+    try:
         port = portCheck()
 
-    ser = serial.Serial(port, 9600, timeout = 1)
-    while port:
-        intro()                                     #calls the intro function from above
+        while not port:
+            print("Please reconnect port!")
+            time.sleep(3)
+            port = portCheck()
 
-        choice = input("Enter Your Choice --> ")    #holds user choice in a variable
+        ser = serial.Serial(port, 9600, timeout = 1)
+        while port:
+            intro()                                     #calls the intro function from above
 
-        try:
-            command = f"{choice}\n".encode('utf-8')     #formats the data to bytes to be sent to arduino
-            ser.write(command)                          #SENDS COMMAND TO ARDUINO!
-            time.sleep(0.1) 
+            choice = input("Enter Your Choice --> ")    #holds user choice in a variable
 
-            while ser.in_waiting > 0:                   # Shows whatever arduinos is printing out...
-                response = ser.readline().decode('utf-8', errors = 'replace').strip()
-                print(f"{response}")
-
-            if choice == '9':            #Remember, python sends instructions to arduinos via a STRING... NOT an integer!!!
-                channel = input()
-                command2 = f"{channel}\n".encode('utf-8')     #formats the data to bytes to be sent to arduino
-                ser.write(command2)                          #SENDS COMMAND TO ARDUINO!
+            try:
+                command = f"{choice}\n".encode('utf-8')     #formats the data to bytes to be sent to arduino
+                ser.write(command)                          #SENDS COMMAND TO ARDUINO!
                 time.sleep(0.1) 
-                
-                while ser.in_waiting > 0:
-                    response2 = ser.readline().decode('utf-8', errors = 'replace').strip()
-                    print(f"{response2}")
 
-        except:
-            print("Port error! Please reconnect!")
-            time.sleep(5)
-            portCheck()
+                while ser.in_waiting > 0:                   # Shows whatever arduinos is printing out...
+                    response = ser.readline().decode('utf-8', errors = 'replace').strip()
+                    print(f"{response}")
 
-            if portCheck() is not False:
-                print("Port reconnected!")
-            else:
-                print("Port Timed out!")
-                ser.close()                                 #Closes program when port timed out
+                if choice == '9':            #Remember, python sends instructions to arduinos via a STRING... NOT an integer!!!
+                    channel = input()
+                    command2 = f"{channel}\n".encode('utf-8')     #formats the data to bytes to be sent to arduino
+                    ser.write(command2)                          #SENDS COMMAND TO ARDUINO!
+                    time.sleep(0.1) 
+                    
+                    while ser.in_waiting > 0:
+                        response2 = ser.readline().decode('utf-8', errors = 'replace').strip()
+                        print(f"{response2}")
 
+            except:
+                print("Port error! Please reconnect!")
+                time.sleep(5)
+                portCheck()
 
-                                    
-    
-    
-    
+                if portCheck() is not False:
+                    print("Port reconnected!")
+                else:
+                    print("Port Timed out!")
+                    ser.close()                                 #Closes program when port timed out
+    except:
+        print("Port being used! Please clear port and restart program!")
 
 ############# initiates Main ############
 if __name__ == "__main__":
