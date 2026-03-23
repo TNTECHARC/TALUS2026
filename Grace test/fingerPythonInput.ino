@@ -57,15 +57,15 @@ void loop() {
 
         }
 
-        String pythonData = Serial.readStringUntil('\n');
-        pythonData.trim();
-        int input = pythonData.toInt();
+        String pythonData = Serial.readStringUntil('\n'); //reads string inputted in python until enter is typed
+        pythonData.trim(); //gets rid of the newline
+        int input = pythonData.toInt(); //converts the python string input to integer for input
         Serial.print("You typed channel ");
         Serial.println(input);
 
-        Serial.flush(); 
+        Serial.flush(); //rids extra newline from buffer
 
-        test(input);
+        test(input); //TEST FUNCTION WILL ELIMINATE LATER
         break;
     }
 }
