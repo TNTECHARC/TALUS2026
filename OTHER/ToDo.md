@@ -35,7 +35,7 @@
   <tr>
     <th> Program </th>
     <th> Run python script to handle user input for arudinos functions </th>
-    <th> INCOMPLETE </th>
+    <th> IN PROCESS </th>
   </tr>
   <tr>
     <th> Assembly </th>
