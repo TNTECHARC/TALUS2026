@@ -43,7 +43,19 @@
         <li>Smiled and had a joyous time!!!</li>
 </ul>
 
-<i> 12 March ---------</i> <br>
+<h1> Week of March 22 - 28 </h1>
+
+<i> 24 March ---------</i> <br>
+<ul>
+        <li>Assembled Lower Stomach </li>
+        <li>Printed and Assembled Right Eye for v2 Head</li>
+        <li>Murdered Greg and stole his microServos :( RIP </li>
+        <li>Printed veneers for v2 Head</li>
+        <li>Printed new TALUS badge with his name on display</li>
+        <li>Began Right Eye Assmebly</li>
+</ul>
+
+<i> 26 March ---------</i> <br>
 <ul>
         <li> </li>
         <li> </li>
