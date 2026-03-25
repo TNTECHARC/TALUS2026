@@ -8,11 +8,6 @@
     <th> Status </th>
   </tr>
   <tr>
-    <th>Assembly</th>
-    <th>Glue knuckle-covers onto right hand</th>
-    <th>INCOMPLETE</th>
-  </tr>
-  <tr>
     <th>Print</th>
     <th>ReCAD and reprint trapezius servo caps</th>
     <th>COMPLETE</th>
@@ -35,12 +30,12 @@
   <tr>
     <th> Program </th>
     <th> Run python script to handle user input for arudinos functions </th>
-    <th> IN PROCESS </th>
+    <th> COMPLETE </th>
   </tr>
   <tr>
     <th> Assembly </th>
     <th> Implement NEW head components!!!!</th>
-    <th> INCOMPLETE</th>
+    <th> IN PROGRESS </th>
   </tr>
   <tr>
     <th> Assembly </th>
@@ -58,11 +53,25 @@
     <th> INCOMPLETE </th>
   </tr>
   <tr>
-    <th> Assembly
+    <th> Assembly </th>
     <th> Replace servo cap for trapezius servo </th>
+    <th> COMPLETE </th>
+  </tr>
+  <tr>
+    <th> Print</th>
+    <th> Reprint eyes -- different color</th>
+    <th> INCOMPLETE </th>
+  </tr>
+  <tr>
+    <th> Assembly</th>
+    <th> Assemble Left Eye</th>
     <th> IN PROGRESS</th>
   </tr>
-   
+  <tr>
+    <th> Print </th>
+    <th> Begin printing legs</th>
+    <th> INCOMPLETE </th>
+  </tr>
 </table>
 <p>
   *Types: <br>
