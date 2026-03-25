@@ -15,3 +15,8 @@ Updated Chestplate
 <img src="https://github.com/user-attachments/assets/de8cbeb7-ea96-4257-9b02-26d93da98b3c" width="300" height="400" alt="March 10 Back"> Torso <br>
 <img src="https://github.com/user-attachments/assets/ebaf4d4f-4b21-4745-b0a0-d8d0fce732e5" width="300" height="400" alt="March 10 Bicep">
 <img src="https://github.com/user-attachments/assets/d058d965-b51d-4493-9b93-ad588ca17c95" width="300" height="400" alt="March 10 Bicep"> Bicep <br>
+
+# March 24 #
+<img src="https://github.com/user-attachments/assets/26b8a1cf-53f4-468d-98ab-adc716350bc4" width="300" height="400" alt="March 24 v2 EYES"> Eyes for v2 Head <br>
+<img src="https://github.com/user-attachments/assets/e89d1fa1-fea5-465f-b9f4-7964cafa4d97" width="300" height="400" alt="March 24 lower Stomach">
+<img src="https://github.com/user-attachments/assets/9580489a-8873-4658-963b-372382923cd9" width="300" height="400" alt="March 24 TEETH V2 HEAD!!! ">
