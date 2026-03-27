@@ -60,7 +60,7 @@
   <tr>
     <th> Print</th>
     <th> Reprint eyes -- different color</th>
-    <th> INCOMPLETE </th>
+    <th> COMPLETE </th>
   </tr>
   <tr>
     <th> Assembly</th>
@@ -72,6 +72,12 @@
     <th> Begin printing legs</th>
     <th> INCOMPLETE </th>
   </tr>
+  <tr>
+    <th> Assembly </th>
+    <th> Finish assembling head WITH PERMANENT SERVOS </th>
+    <th> IN PROGRESS </th>
+  </tr>
+  
 </table>
 <p>
   *Types: <br>
