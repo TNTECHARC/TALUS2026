@@ -20,3 +20,9 @@ Updated Chestplate
 <img src="https://github.com/user-attachments/assets/26b8a1cf-53f4-468d-98ab-adc716350bc4" width="300" height="400" alt="March 24 v2 EYES"> Eyes for v2 Head <br>
 <img src="https://github.com/user-attachments/assets/e89d1fa1-fea5-465f-b9f4-7964cafa4d97" width="300" height="400" alt="March 24 lower Stomach">
 <img src="https://github.com/user-attachments/assets/9580489a-8873-4658-963b-372382923cd9" width="300" height="400" alt="March 24 TEETH V2 HEAD!!! ">
+
+# March 26 #
+<img src="https://github.com/user-attachments/assets/5e47dded-34d2-4916-9a5c-4e1a0df5d8bd" width="300" height="400" alt="March 26 v2 head"> 
+<img src="https://github.com/user-attachments/assets/2b167927-d8e5-4102-bf77-7b0681d440f6" width="300" height="400" alt="March 26 William 0'Neil Smart"> My boy William 0'Neil Smart
+
+
