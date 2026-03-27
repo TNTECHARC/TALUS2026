@@ -43,6 +43,8 @@
         <li>Smiled and had a joyous time!!!</li>
 </ul>
 
+<hr>
+
 <h1> Week of March 22 - 28 </h1>
 
 <i> 24 March ---------</i> <br>
@@ -56,6 +58,19 @@
 </ul>
 
 <i> 26 March ---------</i> <br>
+<ul>
+        <li> Began assembling v2 Head</li>
+        <li> Replaced right eye </li>
+        <li> Printed most head v2 pieces</li>
+        <li> Attempted to attach torso to lower Stomach</li>
+        <li> Inserted dummy servos in v2 Head... TO BE REPLACED...</li>
+</ul>
+
+<hr>
+
+<h1> Week of April 5 - 11 </h1>
+
+<i> 7 April ---------</i> <br>
 <ul>
         <li> </li>
         <li> </li>
