@@ -18,11 +18,6 @@
     <th>IN PROGRESS</th>
   </tr>
   <tr>
-    <th>Print</th>
-    <th>Print cosmetic clavical and shoulder covers</th>
-    <th>INCOMPLETE</th>
-  </tr>
-  <tr>
     <th>Program</th>
     <th>Adjust inverse servo output for Neck -- slow speed? </th>
     <th>INCOMPLETE</th>
