@@ -40,17 +40,17 @@
   <tr>
     <th> Assembly </th>
     <th> Attach bicep to shoulder -- arm to bicep</th>
-    <th> IN PROGRESS </th>
+    <th> COMPLETE </th>
   </tr>
   <tr>
     <th> Assmebly </th>
     <th> Apply grease to bicep servo gears </th>
-    <th> INCOMPLETE</th>
+    <th> COMPLETE </th>
   </tr>
   <tr>
     <th> Print </th>
     <th> Print new pins for wrist and bicep ... AND CLIPS! </th>
-    <th> INCOMPLETE </th>
+    <th> COMPLETE </th>
   </tr>
   <tr>
     <th> Assembly </th>
@@ -69,13 +69,18 @@
   </tr>
   <tr>
     <th> Print </th>
-    <th> Begin printing legs</th>
-    <th> INCOMPLETE </th>
+    <th> Print legs</th>
+    <th> IN PROGRESS </th>
   </tr>
   <tr>
     <th> Assembly </th>
     <th> Finish assembling head WITH PERMANENT SERVOS </th>
     <th> IN PROGRESS </th>
+  </tr>
+  <tr>
+    <th> Amssembly </th>
+    <th> ASSEMBLE FULL LEG!!!!!</th>
+    <th> IN PROGRESS</th>
   </tr>
   
 </table>
