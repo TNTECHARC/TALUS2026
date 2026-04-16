@@ -60,7 +60,7 @@
   <tr>
     <th> Assembly</th>
     <th> Assemble Left Eye</th>
-    <th> IN PROGRESS</th>
+    <th> COMPLETE </th>
   </tr>
   <tr>
     <th> Print </th>
@@ -75,7 +75,12 @@
   <tr>
     <th> Amssembly </th>
     <th> ASSEMBLE FULL LEG!!!!!</th>
-    <th> IN PROGRESS</th>
+    <th> IN PROGRESS </th>
+  </tr>
+  <tr>
+    <th> Print / Assembly </th>
+    <th> Begin OTHER ARM! </th>
+    <th> IN PROGRESS </th>
   </tr>
   
 </table>
