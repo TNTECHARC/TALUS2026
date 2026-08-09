@@ -5,8 +5,7 @@
     <th colspan="2"> CURRENT PROJECT LEADS </th>
   </tr>
   <tr>
-    <td> Evan Rutledge </td>
-    <td> John Veerling </td>
+    <td> Grace Brown </td>
   </tr>
   
 </table>
