@@ -1,4 +1,4 @@
-<h1> TALUS 2026 ... The Purple Version </h1>
+<h1> TALUS 2.0 ... The Purple Version </h1>
 
 <table>
   <tr>
