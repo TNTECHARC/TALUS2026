@@ -82,6 +82,16 @@
     <th> Begin OTHER ARM! </th>
     <th> IN PROGRESS </th>
   </tr>
+  <tr>
+    <th> Print / Assembly </th>
+    <th> Print new V2 eyelid base </th>
+    <th> INCOMPLETE </th>
+  </tr>
+  <tr>
+    <th> Assembly </th>
+    <th> Resolder Bicep potentiometer AGAIN! </th>
+    <th> INCOMPLETE </th>
+  </tr>
   
 </table>
 <p>
