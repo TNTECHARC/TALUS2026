@@ -1,6 +1,16 @@
 #ifndef FINGER_H
 #define FINGER_H
 
+#include <Wire.h>
+#include <Adafruit_PWMServoDriver.h>
+
+// Create the PCA9685 object (controls the servo driver board)
+Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
+
+// Pulse length limits for MG996R servos -- ADJUST FOR HS-805BB+ SERVOS!!!!!!!!!!
+#define SERVOMIN 76   // pulse for 0°
+#define SERVOMAX 500 //pulse for 180˚
+
 // Channels where each servo is plugged in on the PCA9685
 extern int servoChannels[];
 /*Finger SETUP for channels:
