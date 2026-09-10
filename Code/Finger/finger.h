@@ -1,3 +1,6 @@
+#ifndef FINGER_H
+#define FINGER_H
+
 // Channels where each servo is plugged in on the PCA9685
 extern int servoChannels[];
 /*Finger SETUP for channels:
@@ -9,7 +12,7 @@ extern int servoChannels[];
   WRIST   : 5
 */
 
-// Converts an angle (0–180°) into a pulse length the driver understands
+// Converts an angle (0 to 180) into a pulse length the driver understands
 int angleToPulse(int);
 
 void pointFinger();
